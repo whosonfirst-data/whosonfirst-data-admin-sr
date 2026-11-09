@@ -41,7 +41,7 @@
         "gn:id":3384035
     },
     "wof:country":"SR",
-    "wof:geomhash":"4342d7813590784fd00d0d38efca57f2",
+    "wof:geomhash":"d53ba167d14e185bdcea7927309023b6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -67,5 +67,5 @@
     -55.53333000000001,
     4.95
 ],
-  "geometry": {"coordinates":[-55.53333000000001,4.95],"type":"Point"}
+  "geometry": {"coordinates":[-55.53333,4.95],"type":"Point"}
 }

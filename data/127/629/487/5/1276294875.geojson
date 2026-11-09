@@ -60,7 +60,7 @@
         "wk:page":"Djumu"
     },
     "wof:country":"SR",
-    "wof:geomhash":"a3abd2804f9fd3b8a5d606655fdcdc27",
+    "wof:geomhash":"982b82ada7b1e55c8cff4664092a0b98",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,5 +86,5 @@
     -55.46811999999999,
     4.0229
 ],
-  "geometry": {"coordinates":[-55.46811999999999,4.0229],"type":"Point"}
+  "geometry": {"coordinates":[-55.46812,4.0229],"type":"Point"}
 }

@@ -73,7 +73,7 @@
         "wk:page":"Benzdorp"
     },
     "wof:country":"SR",
-    "wof:geomhash":"666431e7b12bb2a24b97787ec7bd04e6",
+    "wof:geomhash":"33dcf0140d8e6c64dc35c6fd8052448a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,5 +99,5 @@
     -54.08728000000001,
     3.68192
 ],
-  "geometry": {"coordinates":[-54.08728000000001,3.68192],"type":"Point"}
+  "geometry": {"coordinates":[-54.08728,3.68192],"type":"Point"}
 }

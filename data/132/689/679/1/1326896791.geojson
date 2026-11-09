@@ -72,7 +72,7 @@
         "wk:page":"Kwamalasamutu"
     },
     "wof:country":"SR",
-    "wof:geomhash":"331e3214d6d7cb5c061a1604c0829402",
+    "wof:geomhash":"05e93cd77c33a86d453eb60438464d95",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -98,5 +98,5 @@
     -56.78333000000001,
     2.33333
 ],
-  "geometry": {"coordinates":[-56.78333000000001,2.33333],"type":"Point"}
+  "geometry": {"coordinates":[-56.78333,2.33333],"type":"Point"}
 }

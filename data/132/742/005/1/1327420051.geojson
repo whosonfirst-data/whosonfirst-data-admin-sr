@@ -51,7 +51,7 @@
         "wk:page":"Galibi%2C_Suriname"
     },
     "wof:country":"SR",
-    "wof:geomhash":"01a68b442aa3d9c56f534dd53bdf3928",
+    "wof:geomhash":"148d0bd952d7ab0d2821d02f7c60385f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,5 +77,5 @@
     -53.99209000000001,
     5.7454
 ],
-  "geometry": {"coordinates":[-53.99209000000001,5.7454],"type":"Point"}
+  "geometry": {"coordinates":[-53.99209,5.7454],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Batavia%2C_Suriname"
     },
     "wof:country":"SR",
-    "wof:geomhash":"e9bdabe261386b7e41744ef849223fb7",
+    "wof:geomhash":"af5b9483b170279d1ca0094a4f388539",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -89,5 +89,5 @@
     -55.86666999999999,
     5.7
 ],
-  "geometry": {"coordinates":[-55.86666999999999,5.7],"type":"Point"}
+  "geometry": {"coordinates":[-55.86667,5.7],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "wk:page":"Ephrata%2C_Suriname"
     },
     "wof:country":"SR",
-    "wof:geomhash":"a08de01025024b4d9ae0e808f40c77da",
+    "wof:geomhash":"be7dab32406e0ec85ccf686942481d96",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,5 +72,5 @@
     -54.75333000000001,
     5.84493
 ],
-  "geometry": {"coordinates":[-54.75333000000001,5.84493],"type":"Point"}
+  "geometry": {"coordinates":[-54.75333,5.84493],"type":"Point"}
 }

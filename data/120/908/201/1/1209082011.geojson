@@ -57,7 +57,7 @@
         "wk:page":"Kajana%2C_Suriname"
     },
     "wof:country":"SR",
-    "wof:geomhash":"604a3cd76f33b1d95f629fd40c551310",
+    "wof:geomhash":"dc81444ec3a70662ffc89de54ccd34da",
     "wof:hierarchy":[
         {
             "country_id":85632443,
@@ -80,5 +80,5 @@
     -55.57261999999999,
     3.90116
 ],
-  "geometry": {"coordinates":[-55.57261999999999,3.90116],"type":"Point"}
+  "geometry": {"coordinates":[-55.57262,3.90116],"type":"Point"}
 }

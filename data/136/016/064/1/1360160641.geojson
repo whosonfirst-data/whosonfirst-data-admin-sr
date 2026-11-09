@@ -51,7 +51,7 @@
         "wk:page":"Tjakkatjakka_Ston"
     },
     "wof:country":"SR",
-    "wof:geomhash":"b57463986a46986358abb4211a60cd01",
+    "wof:geomhash":"4f38584e40e02fd3e473c0885cfa0c2d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,5 +77,5 @@
     -56.10203000000001,
     5.19725
 ],
-  "geometry": {"coordinates":[-56.10203000000001,5.19725],"type":"Point"}
+  "geometry": {"coordinates":[-56.10203,5.19725],"type":"Point"}
 }

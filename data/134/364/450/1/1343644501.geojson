@@ -42,7 +42,7 @@
         "wk:page":"Boston%2C_Suriname"
     },
     "wof:country":"SR",
-    "wof:geomhash":"d4f9b19d70df1bd917fa543c4483edc1",
+    "wof:geomhash":"aa655bd1fe44841ebdaee91a21fd0ca3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -68,5 +68,5 @@
     -55.35791999999999,
     5.6909
 ],
-  "geometry": {"coordinates":[-55.35791999999999,5.6909],"type":"Point"}
+  "geometry": {"coordinates":[-55.35792,5.6909],"type":"Point"}
 }

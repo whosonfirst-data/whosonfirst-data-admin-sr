@@ -42,7 +42,7 @@
         "wk:page":"Anapaike"
     },
     "wof:country":"SR",
-    "wof:geomhash":"aff5906a082adcef98e7363d816b8996",
+    "wof:geomhash":"fb7120464b49672e62e6308074ca6aa9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -68,5 +68,5 @@
     -54.03333000000001,
     3.41667
 ],
-  "geometry": {"coordinates":[-54.03333000000001,3.41667],"type":"Point"}
+  "geometry": {"coordinates":[-54.03333,3.41667],"type":"Point"}
 }

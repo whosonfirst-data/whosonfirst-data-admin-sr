@@ -48,7 +48,7 @@
         "wk:page":"Smithfield%2C_Suriname"
     },
     "wof:country":"SR",
-    "wof:geomhash":"d1aa24cba5b95dc12c387b19539e308b",
+    "wof:geomhash":"7074c71a381d7d91b40ca8620d5d6805",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -74,5 +74,5 @@
     -55.53333000000001,
     5.86667
 ],
-  "geometry": {"coordinates":[-55.53333000000001,5.86667],"type":"Point"}
+  "geometry": {"coordinates":[-55.53333,5.86667],"type":"Point"}
 }

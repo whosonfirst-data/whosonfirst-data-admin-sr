@@ -1,0 +1,74 @@
+{
+  "id": 9895057346,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.34797,5.25174,-55.34797,5.25174",
+    "geom:latitude":5.25174,
+    "geom:longitude":-55.34797,
+    "iso:country":"SR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3383783: name \"Kwakoegron\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3383783"
+        },
+        {
+            "citation":"GeoNames populated place 3383783: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3383783"
+        },
+        {
+            "citation":"GeoNames populated place 3383783: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3383783"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091712207 (Kwakoegron), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632443,
+        85677313,
+        102191577,
+        1091712207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3383783
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"d33c78ad0b0f62e90d5b80ffa2206aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091712207,
+            "locality_id":9895057346,
+            "region_id":85677313
+        }
+    ],
+    "wof:id":9895057346,
+    "wof:lastmodified":1795735188,
+    "wof:name":"Kwakoegron",
+    "wof:parent_id":1091712207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.34797,
+    5.25174,
+    -55.34797,
+    5.25174
+],
+  "geometry": {"coordinates":[-55.34797,5.25174],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895057353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.29384,5.76991,-55.29384,5.76991",
+    "geom:latitude":5.76991,
+    "geom:longitude":-55.29384,
+    "iso:country":"SR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 10349655: name \"Koewarasan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/10349655"
+        },
+        {
+            "citation":"GeoNames populated place 10349655: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/10349655"
+        },
+        {
+            "citation":"GeoNames populated place 10349655: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/10349655"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091713435 (Koewarasan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632443,
+        85677347,
+        102191577,
+        1091713435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10349655
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"fe97a066b8f5d39de44fc833c5274649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091713435,
+            "locality_id":9895057353,
+            "region_id":85677347
+        }
+    ],
+    "wof:id":9895057353,
+    "wof:lastmodified":1795735188,
+    "wof:name":"Koewarasan",
+    "wof:parent_id":1091713435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.29384,
+    5.76991,
+    -55.29384,
+    5.76991
+],
+  "geometry": {"coordinates":[-55.29384,5.76991],"type":"Point"}
+}

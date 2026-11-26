@@ -1,0 +1,75 @@
+{
+  "id": 9895057352,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.01773,5.84905,-55.01773,5.84905",
+    "geom:latitude":5.84905,
+    "geom:longitude":-55.01773,
+    "gn:population":5561,
+    "iso:country":"SR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3384788: name \"Alkmaar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3384788"
+        },
+        {
+            "citation":"GeoNames populated place 3384788: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3384788"
+        },
+        {
+            "citation":"GeoNames populated place 3384788: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3384788"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091711865 (Alkmaar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632443,
+        85677329,
+        102191577,
+        1091711865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384788
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"5c2fdd78cfa466b8c9e66fb61471a5f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091711865,
+            "locality_id":9895057352,
+            "region_id":85677329
+        }
+    ],
+    "wof:id":9895057352,
+    "wof:lastmodified":1795735188,
+    "wof:name":"Alkmaar",
+    "wof:parent_id":1091711865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.01773,
+    5.84905,
+    -55.01773,
+    5.84905
+],
+  "geometry": {"coordinates":[-55.01773,5.84905],"type":"Point"}
+}

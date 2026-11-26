@@ -1,0 +1,75 @@
+{
+  "id": 9895057354,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.99304,5.9283,-56.99304,5.9283",
+    "geom:latitude":5.9283,
+    "geom:longitude":-56.99304,
+    "gn:population":966,
+    "iso:country":"SR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13535826: name \"Van Pettenpolder\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13535826"
+        },
+        {
+            "citation":"GeoNames populated place 13535826: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13535826"
+        },
+        {
+            "citation":"GeoNames populated place 13535826: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13535826"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091712507 (Nieuw Nickerie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632443,
+        85677307,
+        102191577,
+        1091712507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13535826
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"fb24bcf01ef86b0360f1de7ef449fdf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091712507,
+            "locality_id":9895057354,
+            "region_id":85677307
+        }
+    ],
+    "wof:id":9895057354,
+    "wof:lastmodified":1795735188,
+    "wof:name":"Van Pettenpolder",
+    "wof:parent_id":1091712507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.99304,
+    5.9283,
+    -56.99304,
+    5.9283
+],
+  "geometry": {"coordinates":[-56.99304,5.9283],"type":"Point"}
+}

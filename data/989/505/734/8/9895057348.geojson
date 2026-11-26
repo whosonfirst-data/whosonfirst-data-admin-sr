@@ -1,0 +1,74 @@
+{
+  "id": 9895057348,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.51101,5.42493,-55.51101,5.42493",
+    "geom:latitude":5.42493,
+    "geom:longitude":-55.51101,
+    "iso:country":"SR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3384120: name \"Bigi Poika\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3384120"
+        },
+        {
+            "citation":"GeoNames populated place 3384120: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3384120"
+        },
+        {
+            "citation":"GeoNames populated place 3384120: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3384120"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091711663 (Bigi Poika), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632443,
+        85677319,
+        102191577,
+        1091711663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384120
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"212b2e20de2a8fb342ec70a6fb197649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091711663,
+            "locality_id":9895057348,
+            "region_id":85677319
+        }
+    ],
+    "wof:id":9895057348,
+    "wof:lastmodified":1795735188,
+    "wof:name":"Bigi Poika",
+    "wof:parent_id":1091711663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.51101,
+    5.42493,
+    -55.51101,
+    5.42493
+],
+  "geometry": {"coordinates":[-55.51101,5.42493],"type":"Point"}
+}
